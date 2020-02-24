@@ -16,5 +16,15 @@ namespace EasyStore
         {
             InitializeComponent();
         }
+
+        private void lblSlogan_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblDescription_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
