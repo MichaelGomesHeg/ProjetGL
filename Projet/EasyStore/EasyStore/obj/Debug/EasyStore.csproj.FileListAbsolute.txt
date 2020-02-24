@@ -1,0 +1,12 @@
+D:\HEG\S4\Génie Logiciel\Projet\EasyStore\EasyStore\bin\Debug\EasyStore.exe.config
+D:\HEG\S4\Génie Logiciel\Projet\EasyStore\EasyStore\bin\Debug\EasyStore.exe
+D:\HEG\S4\Génie Logiciel\Projet\EasyStore\EasyStore\bin\Debug\EasyStore.pdb
+D:\HEG\S4\Génie Logiciel\Projet\EasyStore\EasyStore\obj\Debug\EasyStore.csprojAssemblyReference.cache
+D:\HEG\S4\Génie Logiciel\Projet\EasyStore\EasyStore\obj\Debug\EasyStore.EasyShop.resources
+D:\HEG\S4\Génie Logiciel\Projet\EasyStore\EasyStore\obj\Debug\EasyStore.Properties.Resources.resources
+D:\HEG\S4\Génie Logiciel\Projet\EasyStore\EasyStore\obj\Debug\EasyStore.csproj.GenerateResource.cache
+D:\HEG\S4\Génie Logiciel\Projet\EasyStore\EasyStore\obj\Debug\EasyStore.csproj.CoreCompileInputs.cache
+D:\HEG\S4\Génie Logiciel\Projet\EasyStore\EasyStore\obj\Debug\EasyStore.exe
+D:\HEG\S4\Génie Logiciel\Projet\EasyStore\EasyStore\obj\Debug\EasyStore.pdb
+D:\HEG\S4\Génie Logiciel\Projet\EasyStore\EasyStore\obj\Debug\EasyStore.CreationCompte.resources
+D:\HEG\S4\Génie Logiciel\Projet\EasyStore\EasyStore\obj\Debug\EasyStore.Panier.resources
